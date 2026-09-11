@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Rahi Da Fey</title>
+	<atom:link href="http://latentfaces.localhost:8080/feed" rel="self" type="application/rss+xml" />
+	<link>http://latentfaces.localhost:8080</link>
+	<description>Songwriter and  Guitar Player .........Shred it out</description>
+	<lastBuildDate>Thu, 20 May 2021 19:46:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=7.1</generator>
+
+<image>
+	<url>http://latentfaces.localhost:8080/wp-content/uploads/2020/01/cropped-1460407-new-halloween-skeleton-wallpaper-1920x1080-1-32x32.jpg</url>
+	<title>Rahi Da Fey</title>
+	<link>http://latentfaces.localhost:8080</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title></title>
+		<link>http://latentfaces.localhost:8080/2021/05/2657</link>
+					<comments>http://latentfaces.localhost:8080/2021/05/2657#respond</comments>
+		
+		<dc:creator><![CDATA[RahiDaFey]]></dc:creator>
+		<pubDate>Thu, 20 May 2021 19:46:12 +0000</pubDate>
+				<category><![CDATA[Uncategorised]]></category>
+		<guid isPermaLink="false">https://latentfaces.feymore.com/?p=2657</guid>
+
+					<description><![CDATA[Tales # Whereabout]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph">Tales # Whereabout</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://latentfaces.localhost:8080/2021/05/2657/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Hello world!</title>
+		<link>http://latentfaces.localhost:8080/2019/10/hello-world</link>
+					<comments>http://latentfaces.localhost:8080/2019/10/hello-world#comments</comments>
+		
+		<dc:creator><![CDATA[RahiDaFey]]></dc:creator>
+		<pubDate>Sat, 26 Oct 2019 19:13:16 +0000</pubDate>
+				<category><![CDATA[Uncategorised]]></category>
+		<guid isPermaLink="false">https://latentfaces.feymore.com/?p=1</guid>
+
+					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph">Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://latentfaces.localhost:8080/2019/10/hello-world/feed</wfw:commentRss>
+			<slash:comments>5</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

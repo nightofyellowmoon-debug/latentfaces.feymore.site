@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Hello world!	</title>
+	<atom:link href="http://latentfaces.localhost:8080/2019/10/hello-world/feed" rel="self" type="application/rss+xml" />
+	<link>http://latentfaces.localhost:8080/2019/10/hello-world</link>
+	<description>Songwriter and  Guitar Player .........Shred it out</description>
+	<lastBuildDate>Sat, 21 Nov 2020 02:51:45 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=7.1</generator>
+	<item>
+		<title>
+		By: film		</title>
+		<link>http://latentfaces.localhost:8080/2019/10/hello-world#comment-5830</link>
+
+		<dc:creator><![CDATA[film]]></dc:creator>
+		<pubDate>Sat, 21 Nov 2020 02:51:45 +0000</pubDate>
+		<guid isPermaLink="false">https://latentfaces.feymore.com/?p=1#comment-5830</guid>
+
+					<description><![CDATA[I am so grateful for your article post. Really looking forward to read more. Fantastic. Belinda Tadeo Gayn]]></description>
+			<content:encoded><![CDATA[<p>I am so grateful for your article post. Really looking forward to read more. Fantastic. Belinda Tadeo Gayn</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: porno		</title>
+		<link>http://latentfaces.localhost:8080/2019/10/hello-world#comment-5829</link>
+
+		<dc:creator><![CDATA[porno]]></dc:creator>
+		<pubDate>Fri, 20 Nov 2020 22:20:01 +0000</pubDate>
+		<guid isPermaLink="false">https://latentfaces.feymore.com/?p=1#comment-5829</guid>
+
+					<description><![CDATA[Hello! I could have sworn Iâ€<img src="https://s.w.org/images/core/emoji/17.0.2/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />ve been to this blog before but after browsing through some of the post I realized itâ€<img src="https://s.w.org/images/core/emoji/17.0.2/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s new to me. Anyways, Iâ€<img src="https://s.w.org/images/core/emoji/17.0.2/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />m definitely happy I found it and Iâ€<img src="https://s.w.org/images/core/emoji/17.0.2/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />ll be book-marking and checking back frequently!]]></description>
+			<content:encoded><![CDATA[<p>Hello! I could have sworn Iâ€™ve been to this blog before but after browsing through some of the post I realized itâ€™s new to me. Anyways, Iâ€™m definitely happy I found it and Iâ€™ll be book-marking and checking back frequently!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: porno		</title>
+		<link>http://latentfaces.localhost:8080/2019/10/hello-world#comment-5827</link>
+
+		<dc:creator><![CDATA[porno]]></dc:creator>
+		<pubDate>Fri, 20 Nov 2020 20:29:32 +0000</pubDate>
+		<guid isPermaLink="false">https://latentfaces.feymore.com/?p=1#comment-5827</guid>
+
+					<description><![CDATA[You made some nice points there. I looked on the internet for the subject matter and found most individuals will agree with your site.]]></description>
+			<content:encoded><![CDATA[<p>You made some nice points there. I looked on the internet for the subject matter and found most individuals will agree with your site.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: AffiliateLabz		</title>
+		<link>http://latentfaces.localhost:8080/2019/10/hello-world#comment-2034</link>
+
+		<dc:creator><![CDATA[AffiliateLabz]]></dc:creator>
+		<pubDate>Sat, 15 Feb 2020 16:38:46 +0000</pubDate>
+		<guid isPermaLink="false">https://latentfaces.feymore.com/?p=1#comment-2034</guid>
+
+					<description><![CDATA[Great content! Super high-quality! Keep it up! :)]]></description>
+			<content:encoded><![CDATA[<p>Great content! Super high-quality! Keep it up! 🙂</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: A WordPress Commenter		</title>
+		<link>http://latentfaces.localhost:8080/2019/10/hello-world#comment-1</link>
+
+		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
+		<pubDate>Sat, 26 Oct 2019 19:13:16 +0000</pubDate>
+		<guid isPermaLink="false">https://latentfaces.feymore.com/?p=1#comment-1</guid>
+
+					<description><![CDATA[Hi, this is a comment.
+To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.
+Commenter avatars come from &lt;a href=&quot;https://gravatar.com&quot;&gt;Gravatar&lt;/a&gt;.]]></description>
+			<content:encoded><![CDATA[<p>Hi, this is a comment.<br />
+To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.<br />
+Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
