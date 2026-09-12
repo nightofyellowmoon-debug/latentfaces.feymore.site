@@ -39,7 +39,7 @@
     var header = document.getElementById('page-site-header');
     if (!header) return;
 
-    var SLIDE_INTERVAL_MS = 6000;
+    var SLIDE_INTERVAL_MS = 5000;
     var current = Math.floor(Math.random() * images.length);
 
     function preload(index) {
@@ -55,7 +55,7 @@
     show(current);
     preload((current + 1) % images.length);
 
-    // Then continue sequentially: one image after another
+    // Then continue sequentially: one image after another (every 5 seconds)
     setInterval(function() {
         current = (current + 1) % images.length;
         preload((current + 1) % images.length);
